@@ -1,6 +1,6 @@
 # Homework 1
 
-**Due January 8.**
+**Due Monday, January 14.**
 
 The goal of our first homework assignment is simply to get you acquainted with the primary tools we'll be using in this class: [Python](https://www.python.org/), [Jupyter notebooks](https://jupyter.org/), and [GitHub](https://github.com/).
 
@@ -24,4 +24,4 @@ Follow [this link](https://www.google.com) to sign up for Google Classroom and d
 
 ## 4. Practice basic Jupyter
 
-Now that you have Python and Jupyter installed, you can open up the [Jupyter notebook]() in this repository for the rest of the assignment.
+Now that you have Python and Jupyter installed, you can open up the [Jupyter notebook](./homework-1.ipynb) in this repository for the rest of the assignment.
