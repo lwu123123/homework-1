@@ -1,6 +1,6 @@
 # Homework 1
 
-**Due Monday, January 14.**
+**Due Tuesday, January 15.**
 
 The goal of our first homework assignment is simply to get you acquainted with the primary tools we'll be using in this class: [Python](https://www.python.org/), [Jupyter notebooks](https://jupyter.org/), and [GitHub](https://github.com/).
 
