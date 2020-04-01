@@ -20,7 +20,7 @@ What if you can't install Python and Jupyter on your machine? In that case, you 
 
 Sign up for a free [GitHub account](https://github.com/) using your UCR email address. It's a good idea to choose a professional user name, because the work you post on GitHub can be an important part of your CV when applying for academic or industry positions.
 
-Follow [this link]() to sign up for GitHub Classroom and download a copy of this repository.
+Follow [this link](https://classroom.github.com/a/7tcO-38P) to sign up for GitHub Classroom and download a copy of this repository.
 
 ## 4. Practice basic Jupyter
 
